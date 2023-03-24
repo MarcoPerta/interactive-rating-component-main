@@ -1,0 +1,71 @@
+#app { 
+    color: white;
+    font-family: 'Overpass', sans-serif;
+ }
+
+#app a { 
+    color: hsl(228, 45%, 44%); 
+}
+
+.feedback-box{
+    width: 400px;
+    height: 400px;
+    background-color:#202731 ;
+    border-radius: 10%;
+}
+
+/* NUMERI FEEDBACK */
+.round-star{
+    background-color: #262F38;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+
+.fa-star{
+    font-size: 20px;
+    padding: 13px;
+    color: #F67510;
+}
+
+/* SCHERMATA VOTO */
+.btn{
+    color: white;
+    background-color: #FF750B;
+    height: 50px;
+    width: 50px;
+}
+
+.active{
+    background-color: #6c757d;
+}
+.btn-sub{
+    color: white;
+    background-color: #FF750B;
+    padding: 10px 150px;
+    border-radius: 25px 25px 25px 25px;
+}
+
+/* SCHERMATA DOPO VOTO */
+.selected{
+    background-color:  #262F38;
+    color: #FF750B;
+    border-radius: 10px 10px 10px 10px;
+}
+
+.contain-sel-value{
+    background-color: #292E37 ;
+    border-radius: 10px;
+}
+
+.p-selected-value{
+   color: #FF750B;
+}
+
+
+/* HOVER */
+
+.round-numbers:hover{
+    background-color: #7B8697 ;
+}
+
